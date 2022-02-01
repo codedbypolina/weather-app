@@ -71,3 +71,16 @@ i {
 i:hover {
   color: #68a7ff;
 }
+
+p {
+  text-align: center;
+}
+
+a {
+  color: #0e6efd;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
