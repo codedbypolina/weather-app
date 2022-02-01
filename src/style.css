@@ -1,0 +1,73 @@
+body {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.top {
+  margin-top: 25px;
+}
+
+h1,
+h2,
+.forecast-of-the-day {
+  text-align: center;
+}
+
+h1 {
+  font-size: 30px;
+}
+
+h2 {
+  font-size: 65px;
+}
+
+.search-button {
+  width: 184px;
+}
+
+.location {
+  padding-left: 12px;
+}
+.col {
+  width: 31.88px;
+}
+
+.location-icon {
+  color: #0e6efd;
+}
+
+i {
+  padding-top: 10px;
+  padding-left: 5px;
+}
+
+.card-body {
+  text-align: center;
+  font-size: 18px;
+}
+
+.forecast {
+  font-size: 30px;
+  padding-top: 0px;
+}
+
+.forecast-day {
+  width: 800px;
+}
+
+.card {
+  margin: 0 auto;
+  margin-bottom: 10px;
+  border-color: #0e6efd;
+}
+
+h1 {
+  text-transform: uppercase;
+}
+
+i {
+  transition: all 200ms;
+}
+
+i:hover {
+  color: #68a7ff;
+}
